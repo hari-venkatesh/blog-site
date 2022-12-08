@@ -28,7 +28,7 @@ nav {
 
 nav ul {
   list-style-type: none;
-  margin: 0;
+  margin: 0px;
   padding: 0;
 }
 
@@ -39,6 +39,7 @@ nav li {
 }
 
 nav a {
+  margin: 0px 35px;
   text-decoration: none;
   color: black;
   font-weight: bold;
@@ -58,7 +59,7 @@ nav a:hover {
 
 .article-list-item {
   text-decoration: none;
-  color: black;
+  color: rgb(218, 27, 27);
   padding: 16px 0 0 0;
 }
 
