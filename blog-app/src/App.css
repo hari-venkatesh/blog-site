@@ -101,3 +101,12 @@ nav a:hover {
   border-bottom: 2px solid black;
   padding: 16px;
 }
+
+.upvotes-button-only {
+margin-right: 20px;
+}
+
+.upvotes-button-only:hover {
+  background:rgb(12, 49, 231) ;
+  color: white;
+}
