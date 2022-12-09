@@ -3,6 +3,8 @@
 /.pnp
 .pnp.js
 
+/cred.json
+
 # testing
 /coverage
 
