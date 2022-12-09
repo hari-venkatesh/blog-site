@@ -5,8 +5,12 @@
 
 /cred.json
 
+.env
+
 # testing
 /coverage
+
+prod-env.yaml
 
 # production
 /build
